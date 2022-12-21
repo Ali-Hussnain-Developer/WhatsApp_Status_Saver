@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WhatsappStatusSaver</string>
+    <string name="txt_download">Download</string>
+    <string name="txt_whatsApp_status_saver">WhatsApp Status Saver</string>
+    <string name="txt_made_by_ali_hussnain">Developed By Ali Hussnain</string>
+    <string name="txt_saved_successfully">Saved Successfully</string>
+
+</resources>
